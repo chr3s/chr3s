@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @chr3s
-- 👀 Interested in all things Javascript
+- 👀 Interested in all things Technology
 - 💞️ Open to collaborations/work on interesting projects
 - 📫 Reach me chr3s@icloud.com
